@@ -181,7 +181,7 @@ A closed-loop learning system that personalizes student paths instead of one-siz
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditi-2609&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditi-2609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-2609&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
