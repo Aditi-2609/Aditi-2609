@@ -188,9 +188,6 @@ A closed-loop learning system that personalizes student paths instead of one-siz
 
 <img src="https://streak-stats.demolab.com?user=Aditi-2609&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditi-2609&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
