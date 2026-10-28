@@ -113,8 +113,6 @@ A support platform where **the LLM proposes actions and application code validat
 | 🔐 **Secure tools** | Pydantic schema validation, authorization and policy checks, idempotency keys and audit logging via FastAPI endpoints |
 | 📊 **Evaluation** | Evaluation sets for routing, retrieval and tool use, plus request tracing for latency, cost and failures |
 
-🔗 **[View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)**
-
 </details>
 
 <details>
@@ -133,8 +131,6 @@ A closed-loop learning system that personalizes student paths instead of one-siz
 - 📈 Tracks behavioral metrics (time spent, quiz attempts, average scores) and forecasts performance with **Linear Regression (R² = 71.8%)**
 - 🚦 Rule-based **mastery gating at 80%** triggers topic progression or remedial learning
 - 🎥 Automated remedial-resource retrieval via the **YouTube Data API**, with real-time progress analytics and topic recommendations
-
-🔗 **[View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)**
 
 </details>
 
@@ -158,6 +154,15 @@ A closed-loop learning system that personalizes student paths instead of one-siz
 
 ---
 
+## 📂 More Projects
+
+| Project | Description |
+|---|---|
+| 📈 [**ML-Powered Stock Prediction Dashboard**](https://github.com/Aditi-2609/ML-Powered-Stock-Prediction-Dashboard_) | AI-powered stock price prediction dashboard combining time-series forecasting with an interactive web interface |
+| ✍️ [**Handwritten Digit Recognition**](https://github.com/Aditi-2609/Handwritten-Digit-Recognition) | Digit classification project, deployed on Render |
+
+---
+
 ## 💼 Experience
 
 <table>
@@ -176,23 +181,23 @@ A closed-loop learning system that personalizes student paths instead of one-siz
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditi-2609&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-2609&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aditi-2609&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aditi-2609&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Aditi-2609/Aditi-2609/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
@@ -230,7 +235,7 @@ B.Tech in Computer Science Engineering | *July 2023 – Expected June 2027*
 
 I'm looking for an **entry-level AI/ML Engineer** role. If you're hiring, I'd love to talk.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aditi-singh2609/"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aditisinghrajput2609@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
