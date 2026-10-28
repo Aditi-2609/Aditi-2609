@@ -9,15 +9,15 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Aditi-2609&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat-square&logo=target&logoColor=white" alt="open to work" />
 <img src="https://img.shields.io/badge/Graduating-June%202027-blueviolet?style=flat-square" alt="graduating" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aditi-singh2609/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aditisinghrajput2609@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Aditi-2609"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
